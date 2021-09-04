@@ -1,0 +1,12 @@
+.img-juego{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.img2{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 65%;
+    width: 100%;
+}
